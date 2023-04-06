@@ -1,2 +1,2 @@
 # Drum-Kit
-Learning Basics of Javascript Listeners 
+Learning Basics of Javascript Events and Listeners 
